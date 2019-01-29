@@ -1,0 +1,1 @@
+Oh hi! In this *README* file I answer all the questions about commands in EMACS. Try not to die from excitement!
