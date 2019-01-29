@@ -1,1 +1,0 @@
-This project is all about getting **Vagrant** onto our computers and using to create and work in a virtual machine.
